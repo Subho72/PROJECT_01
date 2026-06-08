@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Sales Analysis — Project 01
 
 > **Analysing 12 months of real Brazilian e-commerce data to uncover revenue trends, regional patterns, and customer behaviour using Python.**
@@ -145,3 +146,7 @@ The most unexpected result was that **"Bed, Bath & Table"** — a completely ord
 ---
 
 *This project was completed as part of a structured Data Analysis learning program.*
+=======
+# PROJECT_01
+Python-based analysis of 96K+ Brazilian e-commerce orders — revenue trends, regional insights, customer reviews &amp; interactive dashboard using Pandas, Matplotlib and Seaborn.
+>>>>>>> 0eb137e0f305ccd00298db431a25e8fbea4245af
